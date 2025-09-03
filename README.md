@@ -1,7 +1,3 @@
-
-
-
-```markdown
 # 🛍️ E-Commerce Template — HTML/CSS/JS (Responsive)
 
 A simple **E-commerce frontend template** built with  
@@ -33,10 +29,10 @@ Fully **responsive** across desktop, tablet, and mobile.
 ## 📸 Screenshots
 Here are some sample screenshots from the project:
 
-**Home Page**
+**Home Page**  
 ![Home Page](assets/images/screens/home.png)
 
-**Products Page**
+**Products Page**  
 ![Products Page](assets/images/screens/products.png)
 
 > Put your screenshots inside `assets/images/screens/` and update the file names accordingly.
@@ -45,7 +41,6 @@ Here are some sample screenshots from the project:
 
 ## 🗂️ Project Structure
 ```
-
 ecommerce-template/
 ├─ index.html              # Home
 ├─ about.html              # About
@@ -62,8 +57,7 @@ ecommerce-template/
 │        ├─ home.png
 │        └─ products.png
 └─ README.md
-
-````
+```
 
 ---
 
@@ -72,17 +66,14 @@ ecommerce-template/
    ```bash
    git clone https://github.com/YOUR-USERNAME/ecommerce-template.git
    cd ecommerce-template
-````
-
-2. Open `index.html` in your browser.
+   ```
+2. Open `index.html` in your browser.  
 3. Or use **VS Code Live Server** for best experience.
 
 ---
 
 ## 📱 Responsive Design
-
 Built with **Flexbox and CSS Grid** + breakpoints:
-
 ```css
 @media (max-width: 992px) { /* Tablet */ }
 @media (max-width: 768px) { /* Mobile */ }
@@ -92,22 +83,19 @@ Built with **Flexbox and CSS Grid** + breakpoints:
 ---
 
 ## 🧱 Tech Stack
-
-* **HTML5** (semantic tags)
-* **CSS3** (Flexbox, Grid, Media Queries)
-* **Vanilla JavaScript** (DOM, Events)
+- **HTML5** (semantic tags)  
+- **CSS3** (Flexbox, Grid, Media Queries)  
+- **Vanilla JavaScript** (DOM, Events)  
 
 ---
 
 ## ⚙️ Future Improvements
-
-* Product filtering and sorting.
-* Shopping cart using `localStorage`.
-* Dark mode support.
-* Integration with real product API.
+- Product filtering and sorting.  
+- Shopping cart using `localStorage`.  
+- Dark mode support.  
+- Integration with real product API.  
 
 ---
 
 ## 📄 License
-
-Open-source project — for **educational and design purposes only**.
+Open-source project — for **educational and design purposes only**.  

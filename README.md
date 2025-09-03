@@ -30,10 +30,10 @@ Fully **responsive** across desktop, tablet, and mobile.
 Here are some sample screenshots from the project:
 
 **Home Page**  
-![Home Page](assets/images/screens/home.png)
+![Home Page](/img/Screenshot_home.png)
 
 **Products Page**  
-![Products Page](assets/images/screens/products.png)
+![Products Page](/img/Screenshot_product.png)
 
 > Put your screenshots inside `assets/images/screens/` and update the file names accordingly.
 
